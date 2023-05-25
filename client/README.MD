@@ -6,3 +6,8 @@
 ```
 node -v
 ```
+# install npm
+
+```
+npm install
+```
